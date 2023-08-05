@@ -1,0 +1,29 @@
+https://code.visualstudio.com/ > Install
+https://nodejs.org/en > Install
+downlaod & Install Google Chorme
+https://github.com/ > Create account
+https://github.com/Aakashdeveloper > Follow
+
+HTML > Raw Structure
+CSS > Look N Feel
+Boostrap > Responsive desiging
+JavaScript > Functianlity 
+
+
+html 
+> main Tag 
+head
+> All the linking CSS,JavaScript,Title
+body
+> All the content that is visible is a part of body
+
+
+block
+> Always start from the new line
+> Occuipes the whole width of screen
+> p div h1
+
+inline
+> Start in the same line
+> Only Occuipes the space that is required
+> span img a
