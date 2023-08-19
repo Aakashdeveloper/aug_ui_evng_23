@@ -39,3 +39,50 @@ skills
 hoobies
 location map
 footer
+
+
+inline
+styletag
+stylesheet
+
+inline>styletag>stylesheet
+
+inline
+{
+    height:200px;
+    color:red
+}
+
+styletag{
+    color:orange;
+    font-size:20px;
+    background:green
+}
+
+stylesheet{
+    height:250px;
+    background:gray;
+    border:1px
+}
+
+{
+    height:200px;
+    color:red;
+    font-size:20px;
+    background:green;
+    border:1px
+
+}
+
+
+////
+tagName
+> h1
+
+class
+> .
+> when we want to target multiple elements with same property
+
+id
+> #
+> When we want something unique to target

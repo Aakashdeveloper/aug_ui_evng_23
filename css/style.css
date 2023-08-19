@@ -1,0 +1,35 @@
+h1{
+    color:rgb(139, 0, 16)
+}
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.card{
+    height:400px;
+    width:20%;
+    background-color:#77a2c7;
+    margin-left:5%;
+    margin-top: 2%;
+    overflow:scroll;
+   
+}
+
+#slate{
+    background-color:#bcb0a3
+}
+
+.brown{
+    background-color:#74675e
+}
+
+.blue{
+    background-color:#89b8cf
+}
+
+.card > img{
+    width:100%;height:200px
+}

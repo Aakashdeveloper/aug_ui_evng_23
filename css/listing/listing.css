@@ -1,0 +1,130 @@
+body{
+    margin:auto
+}
+header{
+    height:60px;
+    /* border:2px solid red; */
+    background-color: #3c2631;
+}
+
+#brand{
+    font-size: 30px;
+    color:white;
+    float:left;
+    margin-top: 11px;
+    margin-left: 15px;
+}
+
+#social{
+    float:right;
+    margin-top: 6px;
+    margin-right: 15px;
+}
+
+.slogo{
+    width:50px
+}
+
+
+#main{
+    width:80%;
+    margin-left: 10%;
+    margin-top: 2%;
+    display: inline-block;
+}
+
+#filter{
+    height:600px;
+    width: 20%;
+    border:2px solid red;
+    float: left;
+}
+
+
+#list{
+    width: 75%;
+    float:left;
+    margin-left: 4%;
+    margin-top: -18px;
+}
+
+.tile{
+    border:2px solid red;
+    height:300px;
+    width:100%;
+    margin-top:2%
+}
+
+/* Footer Css */
+footer{
+    height:130px;
+    background-color: #3c2631;
+    color: white;
+    text-align:center;
+    /* border:5px dashed purple */
+}
+
+.footDiv{
+    float: left;
+    width: 30%;
+    border-right: 1px solid white;
+}
+
+ul{
+    list-style: none;
+}
+
+.noborder{
+    border:none
+}
+
+@media screen and (max-width:1600px){
+    body{
+        background-color:rgb(238, 165, 165)
+    }
+}
+
+@media screen and (max-width:1400px){
+    body{
+        background-color:rgb(238, 223, 165)
+    }
+}
+
+@media screen and (max-width:1200px){
+    body{
+        background-color:rgb(183, 238, 165)
+    }
+}
+
+
+@media screen and (max-width:1000px){
+    body{
+        background-color:rgb(165, 238, 228)
+    }
+
+    .tileContainer{
+        width:45%
+    }
+}
+
+@media screen and (max-width:800px){
+    body{
+        background-color:rgb(165, 184, 238)
+    }
+
+}
+
+@media screen and (max-width:700px){
+    body{
+        background-color:rgb(165, 184, 238)
+    }
+    .tileContainer{
+        width:100%
+    }
+}
+
+@media screen and (max-width:500px){
+    body{
+        background-color:rgb(227, 165, 238)
+    }
+}
