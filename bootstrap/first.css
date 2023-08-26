@@ -1,0 +1,40 @@
+#first{
+    height:200px;
+    background-color: gray;
+}
+
+#second{
+    height:200px;
+    background-color: rgb(233, 188, 188);
+}
+
+#third{
+    height:200px;
+    background-color: rgb(194, 212, 157);
+}
+#fourth{
+    height:200px;
+    background-color: rgb(91, 189, 174);
+}
+#fifth{
+    height:200px;
+    background-color: rgb(143, 143, 216);
+}
+#sixth{
+    height:200px;
+    background-color: rgb(243, 143, 233);
+}
+#seventh{
+    height:200px;
+    background-color: rgb(223, 207, 84);
+}
+
+.heart{
+    font-size: 20px;
+    color:red;
+}
+
+.slideImage{
+    height:350px !important;
+    width:100%
+}
